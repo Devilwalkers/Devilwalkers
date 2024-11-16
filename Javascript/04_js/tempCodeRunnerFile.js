@@ -1,2 +1,1 @@
-
-      console.log("Temp a
+0
